@@ -1,0 +1,9 @@
+This is my first GitHub Class
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mehmetokayy/mehmet.git
+git push -u origin main

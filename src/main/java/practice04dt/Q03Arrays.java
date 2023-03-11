@@ -1,0 +1,58 @@
+package practice04dt;
+
+import java.util.Arrays;
+/*
+public class Q03Arrays {
+
+    public static void main(String[] args) {
+
+
+        //Type code to check if a specific element in an Array or not
+
+        //String[] str=new String[6];
+
+        String[] str= {"Ellie", "Susan", "Tom", "Brad", "Ali", "Veli"};
+
+        String name="Brad";
+        int counter=0;
+
+        for (String w: str){
+
+            if (w.equals(name)){
+                counter++;
+            }
+        }
+        if (counter>){
+            System.out.println(name + " exist in the Array");
+        }else{
+            System.out.println(name + " does not exist in the Array");
+        }
+
+        //2.way:using binarySearch()
+        Arrays.sort(str);
+        System.out.println(Arrays.toString(str));//{Ali, Brad, Ellie, Susan, Tom, Veli};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}
+*/

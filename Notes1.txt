@@ -7,3 +7,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Mehmetokayy/mehmet.git
 git push -u origin main
+
+
+SECOND CODE PUSH:
+This is my second commit
+git add .
+git commit -m "updating the code"
+git push

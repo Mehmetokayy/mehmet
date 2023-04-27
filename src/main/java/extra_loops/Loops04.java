@@ -6,6 +6,9 @@ public class Loops04 {
 //  13 Session        2:10
 
 
+ //jdbc 50 min
+
+
 
 
 
